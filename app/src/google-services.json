@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "830005552632",
+    "firebase_url": "https://xerofood-36654.firebaseio.com",
+    "project_id": "xerofood-36654",
+    "storage_bucket": "xerofood-36654.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830005552632:android:f4423a2927ec021d0ea20d",
+        "android_client_info": {
+          "package_name": "com.project.xero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830005552632-jnv46jmliopphviq96pf42g4rsd31h72.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.xero",
+            "certificate_hash": "17c59ec29a814a123be1cc339c5faa70b98ee5c9"
+          }
+        },
+        {
+          "client_id": "830005552632-19k6ts8ipn87tr0q1brtv1k9f9e7tq49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhIOdn8-Dj99Zy8Z-mqxjAS3vFeXt1f2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830005552632-19k6ts8ipn87tr0q1brtv1k9f9e7tq49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
